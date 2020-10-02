@@ -7,7 +7,7 @@ int main(){
     cin >> first_name;
     cout << "Dear " << first_name << ", " << endl;
    
-    cout << endl << "How are you? I am fine. I miss you. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a mi eu purus finibus sagittis. Mauris euismod feugiat nisl, a porttitor dolor aliquet ullamcorper. Quisque euismod gravida leo." << endl << endl;
+    cout << endl << "\tHow are you? I am fine. I miss you. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a mi eu purus finibus sagittis. Mauris euismod feugiat nisl, a porttitor dolor aliquet ullamcorper. Quisque euismod gravida leo." << endl << endl;
 
     string friend_name;
     cout << "Enter the name of another friend: ";
